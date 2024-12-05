@@ -1,2 +1,2 @@
 # NLP-Training
-Tracking my training to becoming a data scientist
+Tracking my training to become an AI data scientist
